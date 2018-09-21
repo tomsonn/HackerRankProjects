@@ -6,7 +6,6 @@ The given head pointer may be null indicating that the list is empty.
 
 /* Return head od linked list 
 
----------------------------------------------------------------------------------------------------------------------
 
 /*
 * For your reference:
