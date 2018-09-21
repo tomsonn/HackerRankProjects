@@ -1,11 +1,17 @@
-﻿using System;
+/*
+ * Input: n = number of digit
+ *        m = number of distinct digits
+ * As output we have to create minimal and maximal possible number
+ */
+
+using System;
 using System.Linq;
 using System.IO;
 using System.Text;
 using System.Collections;
 using System.Collections.Generic;
 
-class Solution
+class DistinctNumbers
 {
     static void Main(string[] args)
     {
