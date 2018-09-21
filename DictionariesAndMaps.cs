@@ -4,7 +4,6 @@ After that we got unknown number of names and we tried to got their number from 
 If there wasnt tested name, we printed "Not found" as output.
 */
 
-----------------------------------------------------------------------------------------------------------------
 
 using System;
 using System.Collections.Generic;
